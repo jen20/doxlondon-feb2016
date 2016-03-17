@@ -1,0 +1,9 @@
+run.sh
+.terraform/
+.vagrant/
+
+terraform.tfstate
+terraform.tfstate.backup
+.swp
+.DS_Store
+.log
